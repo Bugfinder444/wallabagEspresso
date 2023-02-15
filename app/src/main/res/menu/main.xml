@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_main_search"
+        android:title="@string/menu_lists_search"
+        android:icon="?attr/icon_search"
+        android:orderInCategory="5"
+        app:showAsAction="collapseActionView|ifRoom"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"/>
+    <item
+        android:id="@+id/menu_main_changeSortOrder"
+        android:title="@string/menu_lists_changeSortOrder"
+        android:icon="?attr/icon_sort"
+        android:orderInCategory="10"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/menu_main_syncQueue"
+        android:title="@string/menu_syncLocalChanges"
+        android:orderInCategory="20"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_main_sweepDeletedArticles"
+        android:title="@string/menu_lists_sweepDeletedArticles"
+        android:orderInCategory="21"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_main_fullUpdate"
+        android:title="@string/menu_lists_fullUpdate"
+        android:orderInCategory="22"
+        app:showAsAction="never"/>
+</menu>

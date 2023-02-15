@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_key_main" translatable="false">main</string>
+
+    <string name="pref_key_connection" translatable="false">connection</string>
+    <string name="pref_key_connection_category" translatable="false">connection.category</string>
+    <string name="pref_key_connection_url" translatable="false">connection.url</string>
+    <string name="pref_key_connection_username" translatable="false">connection.username</string>
+    <string name="pref_key_connection_password" translatable="false">connection.password</string>
+    <string name="pref_key_connection_api_clientID" translatable="false">connection.api.clientID</string>
+    <string name="pref_key_connection_api_clientSecret" translatable="false">connection.api.clientSecret</string>
+    <string name="pref_key_connection_api_refreshToken" translatable="false">connection.api.refreshToken</string>
+    <string name="pref_key_connection_api_accessToken" translatable="false">connection.api.accessToken</string>
+    <string name="pref_key_connection_api_accessTokenExpirationDate" translatable="false">connection.api.accessTokenExpirationDate</string>
+    <string name="pref_key_connection_advanced" translatable="false">connection.advanced</string>
+    <string name="pref_key_connection_advanced_httpAuth_category" translatable="false">connection.advanced.httpAuth.category</string>
+    <string name="pref_key_connection_advanced_httpAuthUsername" translatable="false">connection.advanced.httpAuthUsername</string>
+    <string name="pref_key_connection_advanced_httpAuthPassword" translatable="false">connection.advanced.httpAuthPassword</string>
+
+    <string name="pref_key_ui" translatable="false">ui</string>
+    <string name="pref_key_ui_category" translatable="false">ui.category</string>
+    <string name="pref_key_ui_article_fontSize" translatable="false">ui.article.fontSize</string>
+    <string name="pref_key_ui_article_fontSerif" translatable="false">ui.article.fontSerif</string>
+    <string name="pref_key_ui_article_textAlignment_justify" translatable="false">ui.article.textAlignment.justify</string>
+    <string name="pref_key_ui_article_handlePreformattedText" translatable="false">ui.article.handlePreformattedText</string>
+    <string name="pref_key_ui_readingSpeed" translatable="false">ui.readingSpeed</string>
+    <string name="pref_key_ui_keepScreenOn" translatable="false">ui.keepScreenOn</string>
+    <string name="pref_key_ui_lists_sortOrder" translatable="false">ui.lists.sortOrder</string>
+    <string name="pref_key_ui_tagList_sortOrder" translatable="false">ui.tagList.sortOrder</string>
+    <string name="pref_key_ui_theme" translatable="false">ui.theme</string>
+    <string name="pref_key_ui_volumeButtonsScrolling_enabled" translatable="false">ui.volumeButtonsScrolling.enabled</string>
+    <string name="pref_key_ui_tapToScroll_enabled" translatable="false">ui.tapToScroll.enabled</string>
+    <string name="pref_key_ui_screenScrolling" translatable="false">ui.screenScrolling</string>
+    <string name="pref_key_ui_screenScrolling_percent" translatable="false">ui.screenScrolling.percent</string>
+    <string name="pref_key_ui_screenScrolling_smooth" translatable="false">ui.screenScrolling.smooth</string>
+    <string name="pref_key_ui_misc_category" translatable="false">ui.misc.category</string>
+    <string name="pref_key_ui_showArticleAddedDialog_enabled" translatable="false">ui.article.showArticleAddedDialog</string>
+    <string name="pref_key_ui_article_fullscreen" translatable="false">ui.article.fullscreen</string>
+    <string name="pref_key_ui_disableTouch_enabled" translatable="false">ui.disableTouch.enabled</string>
+    <string name="pref_key_ui_disableTouch_lastState" translatable="false">ui.disableTouch.lastState</string>
+    <string name="pref_key_ui_disableTouch_keyCode" translatable="false">ui.disableTouch.keyCode</string>
+    <string name="pref_key_ui_scrollOverBottom" translatable="false">ui.scrollOverBottom</string>
+    <string name="pref_key_ui_swipeArticles" translatable="false">ui.swipeArticles</string>
+    <string name="pref_key_ui_previewImage_enabled" translatable="false">ui.previewImage.enabled</string>
+    <string name="pref_key_ui_annotations_enabled" translatable="false">ui.annotations.enabled</string>
+    <string name="pref_key_ui_onyxworkaround_enabled" translatable="false">ui.onyxworkaround.enabled</string>
+    <string name="pref_key_ui_mathRendering_enabled" translatable="false">ui.mathRendering.enabled</string>
+    <string name="pref_key_ui_mathRendering_delimiters" translatable="false">ui.mathRendering.delimiters</string>
+
+    <string name="pref_key_tts" translatable="false">tts</string>
+    <string name="pref_key_tts_category" translatable="false">tts.category</string>
+    <string name="pref_key_tts_fastForwardTime" translatable="false">tts.fastForwardTime</string>
+    <string name="pref_key_tts_rewindTime" translatable="false">tts.rewindTime</string>
+    <string name="pref_key_tts_nextButtonIsFastForward" translatable="false">tts.nextButtonIsFastForward</string>
+    <string name="pref_key_tts_previousButtonIsRewind" translatable="false">tts.previousButtonIsRewind</string>
+    <string name="pref_key_tts_usePreviewAsAlbumArt" translatable="false">tts.usePreviewAsAlbumArt</string>
+    <string name="pref_key_tts_visible" translatable="false">tts.visible</string>
+    <string name="pref_key_tts_optionsVisible" translatable="false">tts.optionsVisible</string>
+    <string name="pref_key_tts_speed" translatable="false">tts.speed</string>
+    <string name="pref_key_tts_pitch" translatable="false">tts.pitch</string>
+    <string name="pref_key_tts_engine" translatable="false">tts.engine</string>
+    <string name="pref_key_tts_voice" translatable="false">tts.voice</string>
+    <string name="pref_key_tts_languageVoice_prefix" translatable="false">tts.languageVoice.</string>
+    <string name="pref_key_tts_autoplayNext" translatable="false">tts.autoplayNext</string>
+
+    <string name="pref_key_sync" translatable="false">sync</string>
+    <string name="pref_key_sync_category" translatable="false">sync.category</string>
+    <string name="pref_key_sync_syncTypes_description" translatable="false">sync.category.description</string>
+    <string name="pref_key_sync_sweepingAfterFastSync_enabled" translatable="false">sync.sweepingAfterFastSync.enabled</string>
+    <string name="pref_key_autoSync" translatable="false">autoSync</string>
+    <string name="pref_key_autoSync_category" translatable="false">autoSync.category</string>
+    <string name="pref_key_autoSync_onStartup_enabled" translatable="false">autoSync.onStartup.enabled</string>
+    <string name="pref_key_autoSync_enabled" translatable="false">autoSync.enabled</string>
+    <string name="pref_key_autoSync_interval" translatable="false">autoSync.interval</string>
+    <string name="pref_key_autoSync_type" translatable="false">autoSync.type</string>
+    <string name="pref_key_autoSyncQueue_enabled" translatable="false">autoSyncQueue.enabled</string>
+    <string name="pref_key_imageCache_enabled" translatable="false">imageCache.enabled</string>
+
+    <string name="pref_key_storage_dbPath" translatable="false">storage.dbPath</string>
+
+    <string name="pref_key_misc" translatable="false">misc</string>
+    <string name="pref_key_misc_category" translatable="false">misc.category</string>
+    <string name="pref_key_misc_addTitleToSharedText_enabled" translatable="false">misc.addTitleToSharedText.enabled</string>
+    <string name="pref_key_misc_appendWallabagMention_enabled" translatable="false">misc.appendWallabagMention.enabled</string>
+    <string name="pref_key_misc_handleHttpScheme" translatable="false">misc.handleHttpScheme</string>
+    <string name="pref_key_misc_ftsIcuTokenizer_enabled" translatable="false">misc.ftsIcuTokenizer.enabled</string>
+    <string name="pref_key_misc_wipeDB" translatable="false">misc.wipeDB</string>
+    <string name="pref_key_misc_localQueue" translatable="false">misc.localQueue</string>
+    <string name="pref_key_misc_localQueue_category" translatable="false">misc.localQueue.category</string>
+    <string name="pref_key_misc_localQueue_notice" translatable="false">misc.localQueue.notice</string>
+    <string name="pref_key_misc_localQueue_dumpToFile" translatable="false">misc.localQueue.dumpToFile</string>
+    <string name="pref_key_misc_localQueue_removeFirstItem" translatable="false">misc.localQueue.removeFirstItem</string>
+    <string name="pref_key_misc_logging_logcatToFile" translatable="false">misc.logging.logcatToFile</string>
+
+    <string name="pref_key_internal_preferencesVersion" translatable="false">internal.preferencesVersion</string>
+    <string name="pref_key_internal_firstRun" translatable="false">internal.firstRun</string>
+    <string name="pref_key_internal_configurationIsOk" translatable="false">internal.configurationIsOk</string>
+    <string name="pref_key_internal_configurationErrorShown" translatable="false">internal.configurationErrorShown</string>
+    <string name="pref_key_internal_firstSyncDone" translatable="false">internal.firstSyncDone</string>
+    <string name="pref_key_internal_offlineQueue_pending" translatable="false">internal.offlineQueue.pending</string>
+    <string name="pref_key_internal_update_latestUpdatedItemTimestamp" translatable="false">internal.update.latestUpdatedItemTimestamp</string>
+    <string name="pref_key_internal_update_latestUpdateRunTimestamp" translatable="false">internal.update.latestUpdateRunTimestamp</string>
+
+    <string name="pref_key_connection_wizard" translatable="false">connection.wizard</string>
+    <string name="pref_key_connection_autofill" translatable="false">connection.autofill</string>
+</resources>
